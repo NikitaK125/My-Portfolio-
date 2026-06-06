@@ -1,0 +1,8 @@
+{
+  "name": "GitML CoPilot",
+  "description": "An AI assistant that generates and provides advice on custom GitHub Python AI and machine learning projects",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
